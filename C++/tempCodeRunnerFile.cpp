@@ -1,0 +1,1 @@
+return (alphabets.size() == 26);
